@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/logo-up.png" alt="University of Prishtina Logo" width="180"/>
+
+</div>
+
+<div align="center">
+
 <h2>Weather-Based Crop Yield Prediction Using Machine Learning Techniques</h2>
 
 </div>
