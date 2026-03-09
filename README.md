@@ -7,17 +7,14 @@
 ## Faculty of Electrical and Computer Engineering
 
 **Study Program:** Computer and Software Engineering – Master  
-**Course:** Machine Learning
+**Course:** Machine Learning  
+**Group:** 8
 
----
+<br>
 
 # Weather-Based Crop Yield Prediction Using Machine Learning Techniques
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ## Professor
 
@@ -35,7 +32,7 @@ Arton Gërguri
 
 </div>
 
----
+<br>
 
 ## Project Overview
 
