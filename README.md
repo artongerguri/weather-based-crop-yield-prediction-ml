@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="documentation/images/up-logo.png" alt="University of Prishtina Logo" width="180"/>
+<img src="assets/logo-up.png" alt="University of Prishtina Logo" width="180"/>
 
 # University of Prishtina
 
