@@ -2,33 +2,36 @@
 
 <img src="assets/logo-up.png" alt="University of Prishtina Logo" width="180"/>
 
+# University of Prishtina
+
+## Faculty of Electrical and Computer Engineering
+
+**Study Program:** Computer and Software Engineering – Master  
+**Course:** Machine Learning
+
+---
+
+# Weather-Based Crop Yield Prediction Using Machine Learning Techniques
+
 </div>
+
+---
 
 <div align="center">
 
-<h2>Weather-Based Crop Yield Prediction Using Machine Learning Techniques</h2>
+## Professor
 
-</div>
+Prof. Dr. Lule AHMEDI
 
-<hr>
+## Assistant
 
-<div align="center">
+Dr. Sc. Mërgim H. HOTI
 
-<h3>Professor</h3>
+## Students
 
-<p>Prof. Dr. Lule AHMEDI</p>
-
-<h3>Assistant</h3>
-
-<p>Dr. Sc. Mërgim H. HOTI</p>
-
-<h3>Students</h3>
-
-<p>
-Rinor Ukshini <br>
-Rina Bunjaku <br>
+Rinor Ukshini  
+Rina Bunjaku  
 Arton Gërguri
-</p>
 
 </div>
 
