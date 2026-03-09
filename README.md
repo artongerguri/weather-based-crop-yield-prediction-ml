@@ -33,7 +33,7 @@ Dr. Sc. Mërgim H. HOTI
 This project focuses on predicting crop yield based on weather conditions using machine learning techniques.  
 The main goal is to analyze the relationship between weather variables and agricultural production, and then build predictive models that can estimate crop yield more effectively.
 
-The project will be developed and documented through three main phases, following the course requirements.
+The project will be developed and documented through three main phases.
 
 ---
 
@@ -68,18 +68,6 @@ This phase includes:
 
 ---
 
-## Dataset
-
-The dataset will be uploaded and documented progressively during the project development.
-
-It is expected to include:
-- weather data
-- agricultural production data
-- processed datasets for machine learning experiments
-
-Detailed information such as the number of attributes, number of records, dataset size, and source will be added during Phase I.
-
----
 
 ## Repository Structure
 
